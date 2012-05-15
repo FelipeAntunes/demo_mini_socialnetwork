@@ -1,0 +1,8 @@
+C:\Users\Felipe\Desenvolvimento\demo_mini_socialnetwork\neo4j_code\bin\Debug\neo4j_code.exe.config
+C:\Users\Felipe\Desenvolvimento\demo_mini_socialnetwork\neo4j_code\bin\Debug\neo4j_code.exe
+C:\Users\Felipe\Desenvolvimento\demo_mini_socialnetwork\neo4j_code\bin\Debug\neo4j_code.pdb
+C:\Users\Felipe\Desenvolvimento\demo_mini_socialnetwork\neo4j_code\bin\Debug\Neo4RestNet.dll
+C:\Users\Felipe\Desenvolvimento\demo_mini_socialnetwork\neo4j_code\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Felipe\Desenvolvimento\demo_mini_socialnetwork\neo4j_code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desenvolvimento\demo_mini_socialnetwork\neo4j_code\obj\x86\Debug\neo4j_code.exe
+C:\Users\Felipe\Desenvolvimento\demo_mini_socialnetwork\neo4j_code\obj\x86\Debug\neo4j_code.pdb
